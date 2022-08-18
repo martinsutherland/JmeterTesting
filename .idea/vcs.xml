@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/test/resources/jmeter/bin/report-template/sbadmin2-1.0.7" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/test/resources/jmeter/outputs/2021-10-21T15.31.11.069486700/sbadmin2-1.0.7" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/test/resources/jmeter/outputs/2021-10-21T15.41.08.643248400/sbadmin2-1.0.7" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/test/resources/jmeter/outputs/2021-10-21T15.45.08.877028/sbadmin2-1.0.7" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/test/resources/jmeter/outputs/2021-10-22T10.13.54.321876700/sbadmin2-1.0.7" vcs="Git" />
   </component>
 </project>

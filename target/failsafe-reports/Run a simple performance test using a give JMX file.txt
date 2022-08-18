@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: Run a simple performance test using a give JMX file
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 33.345 s - in Run a simple performance test using a give JMX file
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 30.96 s - in Run a simple performance test using a give JMX file
